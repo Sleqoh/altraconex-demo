@@ -1,0 +1,6 @@
+:HL["/altraconex-demo/_next/static/chunks/0rc94bhd56paa.css","style"]
+:HL["/altraconex-demo/_next/static/media/inter_latin_wght_normal-s.p.0gsaq8ukbf34m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/altraconex-demo/_next/static/media/manrope_latin_wght_normal-s.p.1p_a2k8qd5zhp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/altraconex-demo/_next/static/chunks/3nu0hj2q_j80i.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"g-SxP-j9H8QjM0zj0-hjW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
